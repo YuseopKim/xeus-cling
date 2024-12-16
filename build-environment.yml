@@ -4,8 +4,7 @@ channels:
 dependencies:
   - python
   - pip
-  - cling
-  - xeus-cling
+  - xeus-cpp
   - jupyter_server
   - jupyterlite-core
   - jupyterlite-xeus
