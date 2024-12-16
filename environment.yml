@@ -2,6 +2,6 @@ name: xeus-python-kernel
 channels:
   - conda-forge
 dependencies:
-  - cling
+  - xeus-cpp
   - python
   - xeus-python
