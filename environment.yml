@@ -4,6 +4,11 @@ channels:
   - conda-forge
 dependencies:
   - xeus-cpp
-  - python=3.11
+  - xeus-zmq
+  - CppInterOp
+  - pugixml
+  - cpp-argparse
+  - nlohmann_json
+  - python
   - xeus-python
   - ipycanvas
